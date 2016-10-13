@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherCool</string>
+    <string name="error_title">Oops sorry !!!</string>
+    <string name="error_message">There was an error. Please try Again.</string>
+    <string name="network_unavailalble_message">Network is unavailable</string>
+    <string name="textview">TextView</string>
+    <string name="_100">100</string>
+</resources>
